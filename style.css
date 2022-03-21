@@ -27,7 +27,7 @@
 }
 
 /* PHONE */
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   * {
     margin: 0;
     padding: 0;
@@ -76,7 +76,7 @@
 }
 
 /* PHONE */
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   #lezioni .row>.left,
   #lezioni .row>.right {
     width: 50%;
@@ -120,7 +120,7 @@
 }
 
 /* PHONE */
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   #steps .row > .left,
   #steps .row > .central,
   #steps .row > .right {
@@ -169,7 +169,7 @@
 }
 
 /* PHONE */
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   #why .row > .first,
   #why .row > .second,
   #why .row > .third {
@@ -195,7 +195,7 @@
   }
 }
 /* PHONE */
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   #why.container.grey {
     background-color: bisque;
   }
@@ -233,7 +233,7 @@ img {
 }
 
 /* PHONE */
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 420px) {
   img {
     width: 100%;
     height: auto;
